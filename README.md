@@ -4,7 +4,7 @@ https://www.figma.com/design/smBr5fgEad33tttxIavUsc/Untitled?node-id=0-1&p=f&t=n
 
 prototype link
 
-https://www.figma.com/proto/smBr5fgEad33tttxIavUsc/Untitled?node-id=0-1&t=9YD0kHdwdDB70Cqx-1
+https://www.figma.com/proto/smBr5fgEad33tttxIavUsc/Untitled?node-id=0-1&t=rrcsNh0iuE74o7wb-1
 
 # 🍔 Food Delivery App UI Design – High-Fidelity
 
